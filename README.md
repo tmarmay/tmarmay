@@ -2,7 +2,7 @@
 
 I'm a Computer Scientist based in Córdoba, Argentina, finishing my CS degree at FAMAF (Universidad Nacional de Córdoba) — just the thesis left.
 
-For the full picture, check out **[tmarmay.github.io/cv](https://tmarmay.github.io/cv)**.
+For the full picture, check out **[tmarmay.github.io/cv](https://tmarmay.github.io/)**.
 
 ---
 
@@ -52,4 +52,4 @@ Books I've read or are currently on my desk:
 
 ---
 
-*More about me → [tmarmay.github.io/cv](https://tmarmay.github.io/cv)*
+*More about me → [tmarmay.github.io/cv](https://tmarmay.github.io)*
